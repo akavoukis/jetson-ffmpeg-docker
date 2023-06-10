@@ -3,5 +3,4 @@
 	url = https://github.com/jocover/jetson-ffmpeg
 [submodule "ffmpeg"]
 	path = ffmpeg
-	url = git://source.ffmpeg.org/ffmpeg.git
-	shallow = true
+	url = https://git.ffmpeg.org/ffmpeg.git
